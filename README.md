@@ -1,3 +1,4 @@
 # DataScience
 
-数据分析项目。分析新冠疫情下，社会民众舆论情感走向。
+Data analysis project. 
+Analyze the trend of public opinion and emotion under the COVID-19.
